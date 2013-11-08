@@ -1,0 +1,10 @@
+name: HotBarReload
+main: com.almuradev.HotBarReload.HotBarReload
+version: 1.2
+author: AlmuraDev
+description: >
+             Automatically reloads an item on the hotbar with a matching stack in the player's inventory.
+permissions:
+  hotbarreload.disallow:
+    description: Denies access to HotBarReload.
+    default: false
